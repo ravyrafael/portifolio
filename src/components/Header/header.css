@@ -1,0 +1,23 @@
+
+.header {
+    background: linear-gradient(to left, #3f4f3f , #566,#788 , #9AA , #BCC);;
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    width: 100%;
+    
+    position: relative;
+  }
+  header{
+    display: grid;
+  }
+  .App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
